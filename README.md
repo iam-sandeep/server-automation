@@ -21,4 +21,4 @@ chmod +x automation.sh
 
 
 
-If you are a Developer, then Highly recomended to contribute :-) 
+If you are a Developer, then Highly recomended to contribute.
